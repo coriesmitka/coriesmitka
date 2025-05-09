@@ -86,8 +86,6 @@ Whether I’m building real-time ETL pipelines, training ML models, or turning r
 
 
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=coriesmitka&theme=default)
 ---
 
 ## 📫 Connect With Me

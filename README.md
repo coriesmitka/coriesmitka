@@ -71,7 +71,6 @@ Whether I’m building real-time ETL pipelines, training ML models, or turning r
 
 ![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-🔗 [See all on Credly](https://www.credly.com/users/corie-smitka)
 
 ---
 

@@ -95,4 +95,4 @@ Whether I’m building real-time ETL pipelines, training ML models, or turning r
 
 ---
 
-![Corie’s GitHub stats](https://github-readme-stats.vercel.app/api?username=coriesmitka&show_icons=true&theme=default)
+

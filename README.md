@@ -69,7 +69,7 @@ And I bring that evolution to every team I join.
 
 ### 🛠️ My Technology Journey
 
-![Technology Timeline](assets/tech-timeline.png)
+![Technology Timeline](assets/tech-timeline1.png)
 
 ## 🏅 Certifications & In Progress
 

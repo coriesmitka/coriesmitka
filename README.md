@@ -56,9 +56,16 @@ This project merges my technical background with my passion for sports analytics
 
 I’ve spent the last 20 years riding the pulse of technology — growing alongside it, adapting through every shift, and leading through each transformation.
 
-My career began in the era of **on-prem servers and monolithic apps**, where I honed my foundation in **C/C++**, **Java**, and **SQL**. I’ve scaled through each major era — mastering integration stacks, pioneering cloud-native development, and now designing data-driven, AI-enhanced solutions.
+My early career was rooted in on-prem systems and monolithic applications, where I worked on large-scale enterprise solutions using C/C++, Java, and SQL. These projects were delivered in high-stakes, waterfall environments — often multi-year initiatives where I led complex planning, stakeholder alignment, and delivery assurance across tightly coupled systems.
 
-I don’t just work with technology — I *grow* with it. And I bring that evolution to every team I join.
+As the tech world shifted toward integration, cloud, and agility, so did I. I moved from traditional release models into SAFe Agile, embracing iterative delivery, feature-driven roadmaps, and CI/CD pipelines to deliver faster, smarter, and with reduced risk. My hands-on development evolved into leadership roles — guiding teams through DevOps adoption, cloud-native architectures, and enterprise-level transformation programs.
+
+From legacy to cloud, from project plans to pipelines, my journey reflects a dual mastery: technology execution and delivery excellence.
+
+Today, I focus on the frontier of data, machine learning, and AI — designing solutions that are not only intelligent, but strategic.
+
+I don’t just work with technology — I grow with it.
+And I bring that evolution to every team I join.
 
 ### 🛠️ My Technology Journey
 

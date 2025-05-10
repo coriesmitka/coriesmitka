@@ -1,6 +1,7 @@
 
 
 # 👋 Hi, I'm Corie Smitka
+<img src="assets/banner.png" alt="Banner" width="100%" height="120"/>
 
 I'm a dynamic and resilient software engineer, data analyst, and woman in STEM with over 20 years of experience building secure, scalable, enterprise-grade systems. My passion lies in making data come alive — not just through dashboards, but through purpose-driven analytics that tell deeper stories.
 

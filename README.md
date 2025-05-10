@@ -54,11 +54,15 @@ This project merges my technical background with my passion for sports analytics
 ![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=windows&logoColor=white)![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)![WebLogic](https://img.shields.io/badge/WebLogic-ED1C24?style=for-the-badge&logo=oracle&logoColor=white)![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)![ServiceNow](https://img.shields.io/badge/ServiceNow-1E8CBE?style=for-the-badge&logo=servicenow&logoColor=white)
 ## 🌍 About Me
 
-As a woman in STEM and lifelong builder of systems, I bring a mission-focused mindset to everything I do — from backend architecture to data equity. I’m especially passionate about closing the gender data gap in spaces where representation has long been overlooked.
+I’ve spent the last 20 years riding the pulse of technology — growing alongside it, adapting through every shift, and leading through each transformation.
 
-After two decades of designing secure, enterprise-grade software, I’ve transitioned into data-focused work that fuses analytics, visualization, and machine learning with real-world impact. My projects now explore how biased datasets shape outcomes — and how better insights can empower more inclusive decisions in sports, tech, and beyond.
+My career began in the era of **on-prem servers and monolithic apps**, where I honed my foundation in **C/C++**, **Java**, and **SQL**. I’ve scaled through each major era — mastering integration stacks, pioneering cloud-native development, and now designing data-driven, AI-enhanced solutions.
 
-Whether I’m building real-time ETL pipelines, training ML models, or turning raw data into decision-ready dashboards, I lead with curiosity, clarity, and purpose.
+I don’t just work with technology — I *grow* with it. And I bring that evolution to every team I join.
+
+### 🛠️ My Technology Journey
+
+![Technology Timeline](assets/tech-timeline.png)
 
 ## 🏅 Certifications & In Progress
 

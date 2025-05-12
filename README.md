@@ -1,11 +1,12 @@
 
+# 😄 Hi, I'm Corie Smitka
 
-# 👋 Hi, I'm Corie Smitka
-<img src="assets/banner1.png" alt="Banner" width="1400" height="140"/>
 
-I'm a dynamic and resilient software engineer, data analyst, and woman in STEM with over 20 years of experience building secure, scalable, enterprise-grade systems. My passion lies in making data come alive — not just through dashboards, but through purpose-driven analytics that tell deeper stories.
+I’m a dynamic and resilient software engineer, data analyst, and woman in STEM with over 20 years of experience building secure, scalable, enterprise-grade systems. My passion lies in making data come alive — not just through dashboards, but through purpose-driven analytics that reveal deeper patterns, context, and insight.
 
-After navigating a personal journey of stroke recovery, I've reignited my career by combining my expertise in systems engineering with cutting-edge technologies like machine learning, Power BI, and cloud platforms. My work reflects not only technical depth, but a mission-driven mindset to create meaningful, inclusive, and intelligent solutions.
+Throughout my career, I’ve thrived at the intersection of software integration, system architecture, and data transformation — bringing together legacy technologies, modern cloud stacks, and evolving delivery frameworks. My background in engineering has given me the privilege of deeply understanding the “how” behind the systems — and now, I’m applying that to the “why” through meaningful, analytics-driven solutions.
+
+After navigating a personal journey of stroke recovery, I’ve reignited my career by combining that core engineering foundation with machine learning, Power BI, and cloud platforms. I continue to evolve — driven not only by technical curiosity, but by a mission to build inclusive, intelligent, and real-world impact systems.
 
 ---
 
@@ -53,8 +54,13 @@ This project merges my technical background with my passion for sports analytics
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)![AutoSys](https://img.shields.io/badge/AutoSys-000000?style=for-the-badge&logo=clockify&logoColor=white)![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ### 🧰 Other Technologies 
 ![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=windows&logoColor=white)![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)![WebLogic](https://img.shields.io/badge/WebLogic-ED1C24?style=for-the-badge&logo=oracle&logoColor=white)![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)![ServiceNow](https://img.shields.io/badge/ServiceNow-1E8CBE?style=for-the-badge&logo=servicenow&logoColor=white)
-## 🌍 About Me
 
+
+## 
+<details>
+  <summary><strong>🌍 About Me</strong></summary>
+
+  <br/>
 I’ve spent the last 20 years riding the pulse of technology — growing alongside it, adapting through every shift, and leading through each transformation.
 
 My early career was rooted in on-prem systems and monolithic applications, where I worked on large-scale enterprise solutions using C/C++, Java, and SQL. These projects were delivered in high-stakes, waterfall environments — often multi-year initiatives where I led complex planning, stakeholder alignment, and delivery assurance across tightly coupled systems.
@@ -67,6 +73,7 @@ Today, I focus on the frontier of data, machine learning, and AI — designing s
 
 I don’t just work with technology — I grow with it.
 And I bring that evolution to every team I join.
+</details>
 
 ### 🛠️ My Technology Journey
 

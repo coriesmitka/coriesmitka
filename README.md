@@ -176,25 +176,18 @@ And I bring that evolution to every team I join.
 ### ✅ Verified Certifications  
 🔗 [See All on Credly](https://www.credly.com/users/corie-smitka)
 
-[![MIT Machine Learning, Modeling, and Simulation](https://img.shields.io/badge/MIT_ML_Modeling_&_Simulation-8A1538?style=for-the-badge&logo=mit&logoColor=white)](https://xpro.mit.edu/certificate/28e12ede-2d86-49b0-a008-cb7f5f5fc2b8/)
-![AWS DevOps Engineer – Professional](https://img.shields.io/badge/AWS_DevOps_Engineer_Professional-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Machine Learning – Specialty](https://img.shields.io/badge/AWS_ML_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Developer – Associate](https://img.shields.io/badge/AWS_Developer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
+[![MIT Machine Learning, Modeling, and Simulation](https://img.shields.io/badge/MIT_ML_Modeling_&_Simulation-AB2328?style=for-the-badge&logo=mit&logoColor=white)](https://xpro.mit.edu/certificate/28e12ede-2d86-49b0-a008-cb7f5f5fc2b8/)
+![AWS DevOps Engineer – Professional](https://img.shields.io/badge/AWS_DevOps_Engineer_Professional-FECB2F?style=for-the-badge&logo=amazonaws&logoColor=black)
+![AWS Machine Learning – Specialty](https://img.shields.io/badge/AWS_ML_Specialty-FDD66C?style=for-the-badge&logo=amazonaws&logoColor=black)
+![AWS Developer – Associate](https://img.shields.io/badge/AWS_Developer_Associate-FFB300?style=for-the-badge&logo=amazonaws&logoColor=black)
+![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FAD07C?style=for-the-badge&logo=amazonaws&logoColor=black)
 ---
 
 ### 🛠 Currently Pursuing
 ![AWS Data Engineer – Associate](https://img.shields.io/badge/AWS_Data_Engineer_(In_Progress)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 ![Microsoft Power BI Data Analyst](https://img.shields.io/badge/Power_BI_Data_Analyst_(Coursera)-FFC000?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ![Azure AI Fundamentals (AI-900)](https://img.shields.io/badge/Azure_AI_Fundamentals_AI--900_(Studying)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-![Microsoft Python Development](https://img.shields.io/badge/Microsoft_Python_Dev_(In_Progress)-0078D4?style=for-the-badge&logo=python&logoColor=white)
-
-
-
+![Microsoft Python Development](https://img.shields.io/badge/Microsoft_Python_Dev_(In_Progress)-FFD06C?style=for-the-badge&logo=python&logoColor=black)
 
 ---
 

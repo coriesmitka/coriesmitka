@@ -11,32 +11,122 @@ After navigating a personal journey of stroke recovery, I’ve reignited my care
 ---
 
 ## 🔭 Current Projects
+- <details>
+  <summary><strong>🔥 Flames Player Development Analysis</strong> — <em>(Private – Structure Preview Only)</em></summary>
 
-### 🔥 [Flames Player Development Analysis](https://github.com/coriesmitka/flames-player-development-template) *(Private – Structure Preview Only)*
+  A structured, end-to-end project built around NHL and PWHL player development pipelines:
 
-A structured, end-to-end project built around NHL and PWHL player development pipelines:
+  - NHL API integration (roster, player, game logs)
+  - Power BI dashboards for performance tracking
+  - ML-based growth modeling for player comparison
+  - Gender equity analysis inspired by *Invisible Women*
+  - SQL-based performance views and filtered pipelines for Power BI
+  - GitHub integration with templated public/private structure
 
-- NHL API integration (roster, player, game logs)
-- Power BI dashboards for performance tracking
-- ML-based growth modeling for player comparison
-- Gender equity analysis inspired by *Invisible Women*
-- SQL-based performance views and filtered pipelines for Power BI
-- GitHub integration with templated public/private structure
+  This project merges my technical background with my passion for **sports analytics** and **gender inclusion in STEM** — using data to identify growth trends, disparities, and opportunities across men’s and women’s hockey.
 
-This project merges my technical background with my passion for sports analytics and gender inclusion in STEM — using data to identify growth trends, disparities, and opportunities across men’s and women’s hockey.
+  🔗 [View Repo (Structure Only)](https://github.com/coriesmitka/flames-player-development-template)
 
+  </details>
+
+- <details>
+  <summary><strong>:ice_hockey:PWHL + Women’s Hockey Data Integration</strong></summary>
+
+  Companion project to bring visibility and structure to women’s hockey data.  
+  Focused on **data normalization, visibility equity**, and **eventual ML comparison** with men’s data.  
+  Technologies: **Python, JSON APIs, data modeling**
+
+  </details>
+
+- <details>
+  <summary><strong>⚖️Bias Mitigation in ML Models (Personal Learning Project)</strong></summary>
+
+  As part of expanding into **Responsible AI**, this project explores bias detection and mitigation using real-world datasets.  
+  Toolkit exploration includes: **IBM AI Fairness 360**, **What-If Tool**, and **model auditing techniques**.  
+  📚 Also paired with current course learnings in ethical ML design.
+
+  </details>
+  
 ---
 
 ## 🧠 What I'm Learning
 
-- AWS Data Engineer
-- Microsoft Power BI Data Analyst 
-- Microsoft Azure AI Fundamentals (AI-900)
-- Microsoft Python Development Certification
-- Applied ML with time-series, regression, and simulation
-- GitHub portfolio development and structured data storytelling
-- Simulation modeling with differential equations in sports analytics
+Continuous growth is a core part of my engineering mindset — I'm currently expanding into cloud-native data workflows, analytics visualization, machine learning, and responsible AI.
 
+- <details>
+  <summary><strong>📦 AWS Data Engineer</strong></summary>
+  
+  Building serverless pipelines, event-driven processing, and scalable analytics architecture on AWS.  
+  Focus areas include:
+  - **AWS Lambda**, **API Gateway**, and **DynamoDB** for serverless compute and integration  
+  - **Glue**, **Athena**, **Redshift**, and **EMR** for data processing, transformation, and warehousing  
+  - **S3-based Data Lakes** for storage, cataloging, and querying structured and semi-structured data  
+  - Applying cloud-native best practices for secure, efficient data pipelines
+  
+  </details>
+
+- <details>
+  <summary><strong>📊 Microsoft Power BI Data Analyst</strong></summary>
+
+  Designing actionable dashboards and enterprise semantic models.  
+  Learning advanced **DAX**, **data shaping**, and **model-driven insights** for business storytelling.
+  </details>
+
+- <details>
+  <summary><strong>☁️ Microsoft Azure AI Fundamentals (AI-900)</strong></summary>
+
+  Exploring the foundational concepts of **AI, machine learning**, and **natural language processing** within Azure’s ecosystem.  
+  Topics include:
+  - Core ML types: **classification**, **regression**, and **clustering**
+  - Overview of **Azure AI services**: Vision, Speech, Language, and Decision APIs
+  - Understanding **Responsible AI** principles: fairness, accountability, transparency, and privacy
+  - Real-world use cases for AI in **healthcare**, **finance**, and **public sector solutions**
+  
+  The course supports a deeper commitment to **trustworthy AI design** and data ethics in applied environments.
+
+  </details>
+
+- <details>
+  <summary><strong>🐍 Microsoft Python Developer Certification</strong></summary>
+
+  Reinforcing clean Python development practices with emphasis on readability, maintainability, and data use cases.  
+  Covers functions, classes, file I/O, modules, and intro-level data work.
+  </details>
+
+- <details>
+  <summary><strong>🧠 Applied Machine Learning</strong></summary>
+
+  Studying real-world ML workflows focused on **data preparation**, **model building**, and **evaluation** in Python.  
+  Areas of focus include:
+  - Core models: **time-series forecasting**, **linear regression**, **logistic regression**, and **classification algorithms**
+  - Tools: **scikit-learn**, **pandas**, **NumPy**, and **Matplotlib/Seaborn** for exploratory analysis and model prototyping
+  - Evaluation methods: **cross-validation**, **confusion matrix**, **ROC curves**, and **accuracy/recall trade-offs**
+  - Early-stage planning for integrating ML insights into the **Flames Player Development Analysis** project to support predictive growth modeling
+
+  This work bridges software engineering expertise with machine learning — adding depth to my evolving data science skill set.
+
+  </details>
+
+- <details>
+  <summary><strong>🧮 Simulation Modeling in Sports Analytics</strong></summary>
+
+  Using **mathematical modeling** to simulate player development, team dynamics, and competitive performance.  
+  Current areas of exploration include:
+  - Building and solving **differential equations** to model growth over time
+  - Mapping data-derived trends into **predictive simulation frameworks**
+  - Exploring resistance factors such as fatigue, injury (proxy via injury APIs), or line changes
+  - Applying theoretical models to **NHL and PWHL player performance** trajectories
+
+  This layer blends systems engineering, applied mathematics, and performance data into real-world insights.
+
+  </details>
+
+- <details>
+  <summary><strong>🌐 GitHub Portfolio & Data Storytelling</strong></summary>
+
+  Designing a structured, narrative-rich GitHub presence to showcase real-world data projects.  
+  Focus on **readme design**, **visual consistency**, and **data transparency**.
+  </details>
 ---
 ## 🧰 Tech Stack
 
@@ -58,7 +148,7 @@ This project merges my technical background with my passion for sports analytics
 
 ## 
 <details>
-  <summary><strong>🌍 About Me</strong></summary>
+  <summary><strong>🌍 About Me and my Tech Journey</strong></summary>
 
   <br/>
 I’ve spent the last 20 years riding the pulse of technology — growing alongside it, adapting through every shift, and leading through each transformation.
@@ -75,7 +165,6 @@ I don’t just work with technology — I grow with it.
 And I bring that evolution to every team I join.
 </details>
 
-### 🛠️ My Technology Journey
 
 ![Technology Timeline](assets/tech-timeline1.png)
 

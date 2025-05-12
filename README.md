@@ -145,10 +145,12 @@ Continuous growth is a core part of my engineering mindset — I'm currently exp
 ### 🧰 Other Technologies 
 ![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=windows&logoColor=white)![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)![WebLogic](https://img.shields.io/badge/WebLogic-ED1C24?style=for-the-badge&logo=oracle&logoColor=white)![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)![ServiceNow](https://img.shields.io/badge/ServiceNow-1E8CBE?style=for-the-badge&logo=servicenow&logoColor=white)
 
+--- 
 
-## 
+### 🌍 About Me and My Tech Journey
+
 <details>
-  <summary><strong>🌍 About Me and my Tech Journey</strong></summary>
+  <summary><strong> Expand to read full story</strong></summary>
 
   <br/>
 I’ve spent the last 20 years riding the pulse of technology — growing alongside it, adapting through every shift, and leading through each transformation.
@@ -165,6 +167,7 @@ I don’t just work with technology — I grow with it.
 And I bring that evolution to every team I join.
 </details>
 
+--- 
 
 ![Technology Timeline](assets/tech-timeline1.png)
 

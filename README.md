@@ -54,7 +54,7 @@ After navigating a personal journey of stroke recovery, I’ve reignited my care
 Continuous growth is a core part of my engineering mindset — I'm currently expanding into cloud-native data workflows, analytics visualization, machine learning, and responsible AI.
 
 - <details>
-  <summary><strong>📦 AWS Data Engineer</strong></summary>
+  <summary><strong>📦 AWS Data Engineer Certification</strong></summary>
   
   Building serverless pipelines, event-driven processing, and scalable analytics architecture on AWS.  
   Focus areas include:

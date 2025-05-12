@@ -173,15 +173,14 @@ And I bring that evolution to every team I join.
 
 ## 🏅 Certifications & In Progress
 
-### ✅ Verified Certifications  🔗 [See all on Credly](https://www.credly.com/users/corie-smitka)
+### ✅ Verified Certifications  
+🔗 [See All on Credly](https://www.credly.com/users/corie-smitka)
+
+[![MIT Machine Learning, Modeling, and Simulation](https://img.shields.io/badge/MIT_ML_Modeling_&_Simulation-8A1538?style=for-the-badge&logo=mit&logoColor=white)](https://xpro.mit.edu/certificate/28e12ede-2d86-49b0-a008-cb7f5f5fc2b8/)
 ![AWS DevOps Engineer – Professional](https://img.shields.io/badge/AWS_DevOps_Engineer_Professional-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 ![AWS Machine Learning – Specialty](https://img.shields.io/badge/AWS_ML_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 ![AWS Developer – Associate](https://img.shields.io/badge/AWS_Developer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 ![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 
 ---
 

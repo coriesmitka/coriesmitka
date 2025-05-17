@@ -87,13 +87,6 @@ Continuous growth is a core part of my engineering mindset — I'm currently exp
   </details>
 
 - <details>
-  <summary><strong>🐍 Microsoft Python Developer Certification</strong></summary>
-
-  Reinforcing clean Python development practices with emphasis on readability, maintainability, and data use cases.  
-  Covers functions, classes, file I/O, modules, and intro-level data work.
-  </details>
-
-- <details>
   <summary><strong>🧠 Applied Machine Learning</strong></summary>
 
   Studying real-world ML workflows focused on **data preparation**, **model building**, and **evaluation** in Python.  

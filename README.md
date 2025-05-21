@@ -6,7 +6,7 @@ I’m a dynamic and resilient software engineer, data analyst, and woman in STEM
 
 Throughout my career, I’ve thrived at the intersection of software integration, system architecture, and data transformation — bringing together legacy technologies, modern cloud stacks, and evolving delivery frameworks. My background in engineering has given me the privilege of deeply understanding the “how” behind the systems — and now, I’m applying that to the “why” through meaningful, analytics-driven solutions.
 
-After navigating a personal journey of stroke recovery, I’ve reignited my career by combining that core engineering foundation with machine learning, Power BI, and cloud platforms. I continue to evolve — driven not only by technical curiosity, but by a mission to build inclusive, intelligent, and real-world impact systems.
+I’ve reignited my career by combining that core engineering foundation with machine learning, Power BI, and cloud platforms. I continue to evolve — driven not only by technical curiosity, but by a mission to build inclusive, intelligent, and real-world impact systems.
 
 ---
 

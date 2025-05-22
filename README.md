@@ -65,7 +65,7 @@ I’ve reignited my career by combining that core engineering foundation with ma
   > 💬 “In a world run by algorithms, the human layer still matters most.”
 
   📌 *Live updates and insights will be shared on [LinkedIn](https://linkedin.com/in/coriesmitka)*  
-  🔧 *Repo coming soon — stay tuned.*
+  🔗 [View Repo (Structure Only)](https://github.com/coriesmitka/project-agent-template)
 
 </details>
 

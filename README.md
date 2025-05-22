@@ -47,6 +47,31 @@ I’ve reignited my career by combining that core engineering foundation with ma
 
   </details>
   
+- <details>
+  <summary><strong>🤖 AI & Us — Exploring Human + Machine Thought </strong></summary>
+
+  I'm currently designing a personal AI agent that posts reflective content on LinkedIn about the **cognitive and societal implications of AI**.
+
+  This project combines hands-on learning in AI agent architecture with a deeper human question: *how does AI reshape the way we think, choose, and grow?*
+
+  ### 🔍 Features
+  - Generates thoughtful posts using the OpenAI GPT API
+  - Pulls from curated links, topics, and personal insights
+  - Focused on human-AI dynamics: agency vs automation, neural adaptation, and ethical design
+  - Structured with modular, transparent Python code for full control
+
+  This is also a personal journey — informed by my own experience with cognitive recovery — and it reflects my commitment to **human-centered AI development**.
+
+  > 💬 “In a world run by algorithms, the human layer still matters most.”
+
+  📌 *Live updates and insights will be shared on [LinkedIn](https://linkedin.com/in/coriesmitka)*  
+  🔧 *Repo coming soon — stay tuned.*
+
+</details>
+
+
+
+  
 ---
 
 ## 🧠 What I'm Learning

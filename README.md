@@ -36,6 +36,16 @@ I’ve reignited my career by combining that core engineering foundation with ma
   Focused on **data normalization, visibility equity**, and **eventual ML comparison** with men’s data.  
   Technologies: **Python, JSON APIs, data modeling**
 
+  :sparkles: **Why now?**  
+  As of May 23, 2025, PWHL’s second-season playoffs are underway with headline news confirming:  
+  > _“More fans, more teams: PWHL proves women’s hockey is a hit”_  
+  > *— with expansion from 6 to 8 teams next season.*
+
+  This project is future-ready — built to scale with the league and analyze the growth from founding season through expansion.  
+  - Captures structural changes (new teams, rosters, schedules)  
+  - Enables data equity for ML models across leagues  
+  - Supports cross-league comparison of momentum and player development
+
   </details>
 
 - <details>

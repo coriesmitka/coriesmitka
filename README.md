@@ -79,7 +79,22 @@ I’ve reignited my career by combining that core engineering foundation with ma
 
 </details>
 
+- <details>
+  <summary><strong>🤖 Robo AI</strong> — <em>(In Progress – Simulated Robotics Training)</em></summary>
 
+  A hands-on robotics simulation project focused on teaching a virtual robot how to walk and talk:
+
+  - Webots-based simulation using Python control scripts
+  - Voice input via Vosk (offline speech recognition)
+  - Text-to-speech interaction using pyttsx3 / gTTS
+  - Modular motion planning and behavior scripting
+  - Planned upgrade path to Unity ML-Agents and Isaac Sim
+  - Long-term goal: Deploy to real hardware (e.g., Petoi Bittle)
+
+  This project blends **robotics**, **machine learning**, and **human-computer interaction**, designed to explore how robots can learn physical and verbal behavior in simulated environments — with a pathway to real-world application.
+
+  📂 [View Repo (Private Build in Progress)](https://github.com/coriesmitka/roboAI-template)
+  </details>
 
   
 ---

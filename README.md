@@ -170,6 +170,26 @@ Continuous growth is a core part of my engineering mindset — I'm currently exp
   Designing a structured, narrative-rich GitHub presence to showcase real-world data projects.  
   Focus on **readme design**, **visual consistency**, and **data transparency**.
   </details>
+
+- <details>
+  <summary><strong>🤖 Simulated Robotics & Voice AI (Robo AI)</strong></summary>
+
+  Building and training a virtual robot to walk and talk using **Webots**, **Python**, and AI speech interfaces.  
+  This project explores the intersection of **robotic motion control**, **voice interaction**, and **simulation environments**.
+
+  Key learning areas:
+  - Robot behavior scripting with **Webots** and Python controllers
+  - Integrating offline speech recognition with **Vosk** for command parsing
+  - Using **pyttsx3** and **gTTS** for verbal output and human-like interaction
+  - Designing modular control systems with future expansion into:
+    - **Unity ML-Agents** for reinforcement learning
+    - **Isaac Sim** for photorealistic training
+    - **Real-world deployment** on Raspberry Pi or Petoi Bittle
+
+  This hands-on exploration brings together multiple learning paths — including simulation, speech interfaces, ML, and hardware planning — under a unified robotics training project.
+  </details>
+
+  
 ---
 ## 🧰 Tech Stack
 

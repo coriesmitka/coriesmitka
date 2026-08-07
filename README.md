@@ -2,99 +2,45 @@
 # 😄 Hi, I'm Corie Smitka
 
 
-I’m a dynamic and resilient software engineer, data analyst, and woman in STEM with over 20 years of experience building secure, scalable, enterprise-grade systems. My passion lies in making data come alive — not just through dashboards, but through purpose-driven analytics that reveal deeper patterns, context, and insight.
+I’m a Systems Analyst, Software Engineer, and DevOps professional with over 20 years of experience designing secure, scalable enterprise solutions across cloud and on-premise environments.
 
-Throughout my career, I’ve thrived at the intersection of software integration, system architecture, and data transformation — bringing together legacy technologies, modern cloud stacks, and evolving delivery frameworks. My background in engineering has given me the privilege of deeply understanding the “how” behind the systems — and now, I’m applying that to the “why” through meaningful, analytics-driven solutions.
+My passion lies in systems design—understanding how people, processes, and technology come together to create reliable, maintainable, and meaningful software. From software engineering and infrastructure automation to AI-assisted workflows and cloud architecture, I enjoy building solutions that are thoughtful, practical, and designed to evolve.
 
-I’ve reignited my career by combining that core engineering foundation with machine learning, Power BI, and cloud platforms. I continue to evolve — driven not only by technical curiosity, but by a mission to build inclusive, intelligent, and real-world impact systems.
+I believe the best software begins with understanding the system first. Technology is simply the tool that brings that vision to life.
+
+Today, I'm continuing to expand my knowledge in Android development, artificial intelligence, cloud technologies, and modern software architecture through hands-on personal projects and continuous learning.
 
 ---
-
 ## 🔭 Current Projects
-- <details>
-  <summary><strong>🔥 Flames Player Development Analysis</strong> — <em>(Private – Structure Preview Only)</em></summary>
-
-  A structured, end-to-end project built around NHL and PWHL player development pipelines:
-
-  - NHL API integration (roster, player, game logs)
-  - Power BI dashboards for performance tracking
-  - ML-based growth modeling for player comparison
-  - Gender equity analysis inspired by *Invisible Women*
-  - SQL-based performance views and filtered pipelines for Power BI
-  - GitHub integration with templated public/private structure
-
-  This project merges my technical background with my passion for **sports analytics** and **gender inclusion in STEM** — using data to identify growth trends, disparities, and opportunities across men’s and women’s hockey.
-
-  🔗 [View Repo (Structure Only)](https://github.com/coriesmitka/flames-player-development-template)
-
-  </details>
 
 - <details>
-  <summary><strong>:ice_hockey:PWHL + Women’s Hockey Data Integration</strong></summary>
+  <summary><strong>🧩 Project Mosaic</strong> — <em>(Private Repository – Public Overview)</em></summary>
 
-  Companion project to bring visibility and structure to women’s hockey data.  
-  Focused on **data normalization, visibility equity**, and **eventual ML comparison** with men’s data.  
-  Technologies: **Python, JSON APIs, data modeling**
+  Project Mosaic is a personal Android software project exploring AI-assisted workflows, modern mobile architecture, and privacy-first software design.
 
-  :sparkles: **Why now?**  
-  As of May 23, 2025, PWHL’s second-season playoffs are underway with headline news confirming:  
-  > _“More fans, more teams: PWHL proves women’s hockey is a hit”_  
-  > *— with expansion from 6 to 8 teams next season.*
+  The project is being built from the ground up using an iterative, systems-first approach with a focus on creating reliable, maintainable, and user-centered software.
 
-  This project is future-ready — built to scale with the league and analyze the growth from founding season through expansion.  
-  - Captures structural changes (new teams, rosters, schedules)  
-  - Enables data equity for ML models across leagues  
-  - Supports cross-league comparison of momentum and player development
+  **Current Areas of Exploration**
 
-  </details>
+  - Android application development
+  - Kotlin and Jetpack libraries
+  - Local-first architecture
+  - Speech-to-text workflows
+  - AI-assisted structured information processing
+  - Privacy by Design
+  - Security by Design
+  - Clean software architecture
+  - Offline-first design principles
 
-- <details>
-  <summary><strong>⚖️Bias Mitigation in ML Models (Personal Learning Project)</strong></summary>
+  🚧 **Current Status**
 
-  As part of expanding into **Responsible AI**, this project explores bias detection and mitigation using real-world datasets.  
-  Toolkit exploration includes: **IBM AI Fairness 360**, **What-If Tool**, and **model auditing techniques**.  
-  📚 Also paired with current course learnings in ethical ML design.
+  Early architectural design and foundation planning are currently underway.
 
-  </details>
-  
-- <details>
-  <summary><strong>🤖 AI & Us — Exploring Human + Machine Thought </strong></summary>
+  The project is intentionally being developed in small, iterative phases, with each release focused on building a strong architectural foundation before introducing additional capabilities.
 
-  I'm currently designing a personal AI agent that posts reflective content on LinkedIn about the **cognitive and societal implications of AI**.
-
-  This project combines hands-on learning in AI agent architecture with a deeper human question: *how does AI reshape the way we think, choose, and grow?*
-
-  ### 🔍 Features
-  - Generates thoughtful posts using the OpenAI GPT API
-  - Pulls from curated links, topics, and personal insights
-  - Focused on human-AI dynamics: agency vs automation, neural adaptation, and ethical design
-  - Structured with modular, transparent Python code for full control
-
-  This is also a personal journey — informed by my own experience with cognitive recovery — and it reflects my commitment to **human-centered AI development**.
-
-  > 💬 “In a world run by algorithms, the human layer still matters most.”
-
-  📌 *Live updates and insights will be shared on [LinkedIn](https://linkedin.com/in/coriesmitka)*  
-  🔗 [View Repo (Structure Only)](https://github.com/coriesmitka/project-agent-template)
+  🔗 Repository: *Currently Private*
 
 </details>
-
-- <details>
-  <summary><strong>🤖 Robo AI</strong> — <em>(In Progress – Simulated Robotics Training)</em></summary>
-
-  A hands-on robotics simulation project focused on teaching a virtual robot how to walk and talk:
-
-  - Webots-based simulation using Python control scripts
-  - Voice input via Vosk (offline speech recognition)
-  - Text-to-speech interaction using pyttsx3 / gTTS
-  - Modular motion planning and behavior scripting
-  - Planned upgrade path to Unity ML-Agents and Isaac Sim
-  - Long-term goal: Deploy to real hardware (e.g., Petoi Bittle)
-
-  This project blends **robotics**, **machine learning**, and **human-computer interaction**, designed to explore how robots can learn physical and verbal behavior in simulated environments — with a pathway to real-world application.
-
-  📂 [View Repo (Private Build in Progress)](https://github.com/coriesmitka/roboAI-template)
-  </details>
 
   
 ---

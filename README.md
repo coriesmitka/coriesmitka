@@ -49,15 +49,17 @@ Today, I'm continuing to expand my knowledge in Android development, artificial 
 I'm continuously expanding my technical knowledge through hands-on development, professional certifications, and real-world implementation.
 
 ### 📖 Current Focus
-- <details>
-  <summary><strong>🤖 AWS Certified Generative AI Developer – Professional</strong></summary>
-  - Currently preparing for the AWS Certified Generative AI Developer 
-  – Professional certification through structured study, hands-on experimentation, and practical application.
-  - Exploring Large Language Models (LLMs), prompt engineering, AI application architecture, and cloud-native Generative AI services.
-  - Applying new concepts directly into personal software engineering projects to reinforce learning through real-world implementation.
 
-  </details>
-  
+<details>
+<summary><strong>🤖 AWS Certified Generative AI Developer – Professional</strong></summary>
+
+- Currently preparing through structured study and hands-on experimentation.
+- Exploring Large Language Models (LLMs), prompt engineering, AI application architecture, and cloud-native Generative AI services.
+- Applying new concepts directly into **Project Mosaic**.
+
+</details>
+
+ 
 ---
 ## 🧰 Tech Stack
 

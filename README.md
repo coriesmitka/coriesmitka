@@ -46,95 +46,17 @@ Today, I'm continuing to expand my knowledge in Android development, artificial 
 ---
 
 ## 🧠 What I'm Learning
+I'm continuously expanding my technical knowledge through hands-on development, professional certifications, and real-world implementation.
 
-Continuous growth is a core part of my engineering mindset — I'm currently expanding into cloud-native data workflows, analytics visualization, machine learning, and responsible AI.
-
+### 📖 Current Focus
 - <details>
-  <summary><strong>📦 AWS Data Engineer Certification</strong></summary>
-  
-  Building serverless pipelines, event-driven processing, and scalable analytics architecture on AWS.  
-  Focus areas include:
-  - **AWS Lambda**, **API Gateway**, and **DynamoDB** for serverless compute and integration  
-  - **Glue**, **Athena**, **Redshift**, and **EMR** for data processing, transformation, and warehousing  
-  - **S3-based Data Lakes** for storage, cataloging, and querying structured and semi-structured data  
-  - Applying cloud-native best practices for secure, efficient data pipelines
-  
-  </details>
-
-- <details>
-  <summary><strong>📊 Microsoft Power BI Data Analyst</strong></summary>
-
-  Designing actionable dashboards and enterprise semantic models.  
-  Learning advanced **DAX**, **data shaping**, and **model-driven insights** for business storytelling.
-  </details>
-
-- <details>
-  <summary><strong>☁️ Microsoft Azure AI Fundamentals (AI-900)</strong></summary>
-
-  Exploring the foundational concepts of **AI, machine learning**, and **natural language processing** within Azure’s ecosystem.  
-  Topics include:
-  - Core ML types: **classification**, **regression**, and **clustering**
-  - Overview of **Azure AI services**: Vision, Speech, Language, and Decision APIs
-  - Understanding **Responsible AI** principles: fairness, accountability, transparency, and privacy
-  - Real-world use cases for AI in **healthcare**, **finance**, and **public sector solutions**
-  
-  The course supports a deeper commitment to **trustworthy AI design** and data ethics in applied environments.
+  <summary><strong>🤖 AWS Certified Generative AI Developer – Professional</strong></summary>
+  - Currently preparing for the AWS Certified Generative AI Developer 
+  – Professional certification through structured study, hands-on experimentation, and practical application.
+  - Exploring Large Language Models (LLMs), prompt engineering, AI application architecture, and cloud-native Generative AI services.
+  - Applying new concepts directly into personal software engineering projects to reinforce learning through real-world implementation.
 
   </details>
-
-- <details>
-  <summary><strong>🧠 Applied Machine Learning</strong></summary>
-
-  Studying real-world ML workflows focused on **data preparation**, **model building**, and **evaluation** in Python.  
-  Areas of focus include:
-  - Core models: **time-series forecasting**, **linear regression**, **logistic regression**, and **classification algorithms**
-  - Tools: **scikit-learn**, **pandas**, **NumPy**, and **Matplotlib/Seaborn** for exploratory analysis and model prototyping
-  - Evaluation methods: **cross-validation**, **confusion matrix**, **ROC curves**, and **accuracy/recall trade-offs**
-  - Early-stage planning for integrating ML insights into the **Flames Player Development Analysis** project to support predictive growth modeling
-
-  This work bridges software engineering expertise with machine learning — adding depth to my evolving data science skill set.
-
-  </details>
-
-- <details>
-  <summary><strong>🧮 Simulation Modeling in Sports Analytics</strong></summary>
-
-  Using **mathematical modeling** to simulate player development, team dynamics, and competitive performance.  
-  Current areas of exploration include:
-  - Building and solving **differential equations** to model growth over time
-  - Mapping data-derived trends into **predictive simulation frameworks**
-  - Exploring resistance factors such as fatigue, injury (proxy via injury APIs), or line changes
-  - Applying theoretical models to **NHL and PWHL player performance** trajectories
-
-  This layer blends systems engineering, applied mathematics, and performance data into real-world insights.
-
-  </details>
-
-- <details>
-  <summary><strong>🌐 GitHub Portfolio & Data Storytelling</strong></summary>
-
-  Designing a structured, narrative-rich GitHub presence to showcase real-world data projects.  
-  Focus on **readme design**, **visual consistency**, and **data transparency**.
-  </details>
-
-- <details>
-  <summary><strong>🤖 Simulated Robotics & Voice AI (Robo AI)</strong></summary>
-
-  Building and training a virtual robot to walk and talk using **Webots**, **Python**, and AI speech interfaces.  
-  This project explores the intersection of **robotic motion control**, **voice interaction**, and **simulation environments**.
-
-  Key learning areas:
-  - Robot behavior scripting with **Webots** and Python controllers
-  - Integrating offline speech recognition with **Vosk** for command parsing
-  - Using **pyttsx3** and **gTTS** for verbal output and human-like interaction
-  - Designing modular control systems with future expansion into:
-    - **Unity ML-Agents** for reinforcement learning
-    - **Isaac Sim** for photorealistic training
-    - **Real-world deployment** on Raspberry Pi or Petoi Bittle
-
-  This hands-on exploration brings together multiple learning paths — including simulation, speech interfaces, ML, and hardware planning — under a unified robotics training project.
-  </details>
-
   
 ---
 ## 🧰 Tech Stack
@@ -145,14 +67,37 @@ Continuous growth is a core part of my engineering mindset — I'm currently exp
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-A020F0?style=for-the-badge&logo=data&logoColor=white)![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ### 📊 Data Analysis & Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![SSRS](https://img.shields.io/badge/SSRS-4479A1?style=for-the-badge&logo=windows&logoColor=white)![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-### ☁️ Cloud Platforms & Services
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F00?style=for-the-badge&logo=amazonapi&logoColor=white)![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=awscloudformation&logoColor=white)![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### ☁️ Cloud Platforms & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Systems Manager](https://img.shields.io/badge/AWS_SSM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![WAF](https://img.shields.io/badge/AWS_WAF-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ### 🧠 Machine Learning & Data Science
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-### 🔧 DevOps & Tooling
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)![AutoSys](https://img.shields.io/badge/AutoSys-000000?style=for-the-badge&logo=clockify&logoColor=white)![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-### 🧰 Other Technologies 
-![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=windows&logoColor=white)![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)![WebLogic](https://img.shields.io/badge/WebLogic-ED1C24?style=for-the-badge&logo=oracle&logoColor=white)![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)![ServiceNow](https://img.shields.io/badge/ServiceNow-1E8CBE?style=for-the-badge&logo=servicenow&logoColor=white)
+### 🔧 DevOps & Automation
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Serverless Framework](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![AWS CLI](https://img.shields.io/badge/AWS_CLI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+### 🏗️ Architecture & Collaboration
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F58220?style=for-the-badge)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+### 🤖 AI & Emerging Technologies
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-5A67D8?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge)
+
 
 --- 
 

@@ -123,7 +123,7 @@ And I bring that evolution to every team I join.
 
 --- 
 
-![Technology Timeline](assets/tech-timeline1.png)
+![Technology Timeline](assets/tech-timeline2.png)
 
 ## 🏅 Certifications & In Progress
 
@@ -138,10 +138,10 @@ And I bring that evolution to every team I join.
 ![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FAD07C?style=for-the-badge&logo=amazonaws&logoColor=black)
 ---
 
-### 🛠 Currently Pursuing
-![AWS Data Engineer – Associate](https://img.shields.io/badge/AWS_Data_Engineer_(In_Progress)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft Power BI Data Analyst](https://img.shields.io/badge/Power_BI_Data_Analyst_(Coursera)-FFC000?style=for-the-badge&logo=powerbi&logoColor=black)
-![Azure AI Fundamentals (AI-900)](https://img.shields.io/badge/Azure_AI_Fundamentals_AI--900_(Studying)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### 📚 Currently Pursuing
+
+![AWS Certified Generative AI Developer – Professional](https://img.shields.io/badge/AWS%20Certified%20Generative%20AI%20Developer%20%E2%80%93%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ---
 

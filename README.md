@@ -42,6 +42,37 @@ Today, I'm continuing to expand my knowledge in Android development, artificial 
 
 </details>
 
+- <details>
+  <summary><strong>🧪 Documentation-Driven Engineering</strong> — <em>(Future Research & Exploration)</em></summary>
+
+  Exploring how structured engineering documentation can become the primary source of truth for AI-assisted software development.
+
+  The long-term vision is to investigate whether architecture, service definitions, domain models, technology decisions, and engineering documentation can guide multiple implementation approaches while preserving architectural intent.
+
+  **Areas of Exploration**
+
+  - 📄 Documentation-first software engineering
+  - 🤖 Specification-driven AI implementation
+  - 🧠 Agentic engineering workflows
+  - 🏛️ Architecture-driven development
+  - 🔄 Human + AI collaborative engineering
+  - 📚 Engineering knowledge frameworks
+
+  🚧 **Current Status**
+
+  This concept emerged naturally during the design of **Project Mosaic** and is intentionally being captured for future investigation.
+
+  The primary focus remains building Mosaic. Once the documentation reaches a stable "freeze point," it may be used as the foundation for engineering experiments comparing independent implementation approaches.
+
+</details>
+
+
+
+
+
+
+
+
   
 ---
 

@@ -67,12 +67,6 @@ Today, I'm continuing to expand my knowledge in Android development, artificial 
 </details>
 
 
-
-
-
-
-
-
   
 ---
 
